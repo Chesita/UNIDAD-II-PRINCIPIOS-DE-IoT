@@ -14,6 +14,11 @@ https://drive.google.com/drive/folders/1Rzq-VKqA_DAD_4GathN-hbpgONnil5KH?usp=sha
 ### VIDEOS DE LAS ACTIVIDADES EN CLASE
 https://drive.google.com/drive/folders/1NKP_cSiWGUvUV6KqWG0htpQsxpgcBHol?usp=sharing
 
+# SESSION 3
+## AVANCE NAVIDEÑO 
+### VIDEOS Y CÓDIGOS
+https://drive.google.com/drive/folders/1dooSkp135HA2M_sgGJK-i3txaCdwki2E?usp=sharing
+
 
 
 
