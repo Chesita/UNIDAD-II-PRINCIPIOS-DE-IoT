@@ -27,6 +27,16 @@ https://drive.google.com/drive/folders/1dooSkp135HA2M_sgGJK-i3txaCdwki2E?usp=sha
 ![Imagen de WhatsApp 2024-10-31 a las 19 22 42_68db8b37](https://github.com/user-attachments/assets/a36a5594-f434-43e3-b713-5675eb75872a)
 ![Imagen de WhatsApp 2024-10-31 a las 19 22 42_f2bcd43d](https://github.com/user-attachments/assets/020d7ab2-4f00-43fc-9619-ad48db21641f)
 
+# COEVALUACIÓN
+## Coevaluación
+
+| Aspecto                           | Observación                                                                                                   |
+|-----------------------------------|---------------------------------------------------------------------------------------------------------------|
+| **Nombre del compañero evaluado** | [Nombre del compañero]                                                                                        |
+| **Aspectos positivos**            | - [Describe aquí qué hizo bien tu compañero. Puedes mencionar el diseño del código, estructura, o lógica clara.] |
+| **Áreas de mejora**               | - [Especifica áreas donde tu compañero podría mejorar. Ej.: eficiencia, explicación más clara, implementación técnica.] |
+| **Aspectos técnicos destacados**  | - [Si tu compañero implementó algo sobresaliente, menciónalo aquí. Ej.: técnicas de optimización, uso de componentes.] |
+
 
 
 
