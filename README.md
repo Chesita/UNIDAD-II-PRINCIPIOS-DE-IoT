@@ -32,10 +32,10 @@ https://drive.google.com/drive/folders/1dooSkp135HA2M_sgGJK-i3txaCdwki2E?usp=sha
 
 | Aspecto                           | Observación                                                                                                   |
 |-----------------------------------|---------------------------------------------------------------------------------------------------------------|
-| **Nombre del compañero evaluado** | [Nombre del compañero]                                                                                        |
-| **Aspectos positivos**            | - [Describe aquí qué hizo bien tu compañero. Puedes mencionar el diseño del código, estructura, o lógica clara.] |
-| **Áreas de mejora**               | - [Especifica áreas donde tu compañero podría mejorar. Ej.: eficiencia, explicación más clara, implementación técnica.] |
-| **Aspectos técnicos destacados**  | - [Si tu compañero implementó algo sobresaliente, menciónalo aquí. Ej.: técnicas de optimización, uso de componentes.] |
+| **Nombre del compañero evaluado** | Gael Quintana Romero                                                                                      |
+| **Aspectos positivos**            | - El compañero Gael Quintana Romero cumple con altas expectativas, destacándose por su eficiencia y eficacia. Posee grandes habilidades en diversos lenguajes de programación, mostrando facilidad para comprenderlos y adaptarse rápidamente. Es una persona aplicada, responsable y comprometida, con un excelente desempeño en la materia de Principios de IoT, así como en otras asignaturas. |
+| **Áreas de mejora**               | - No se identifican áreas de mejora en este momento, ya que cumple con todas las expectativas de manera sobresaliente. |
+| **Cpevaluación**  | - En cuanto al puntaje de esta coevaluación 10/10 |
 
 
 
